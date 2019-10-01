@@ -8,6 +8,8 @@ Kurasi tempat wifi-an di Bali, kadang malas dirumah tapi bingung mau kemana 😋
 - [Kuta Tengah](#kuta-tengah)
 - [Kuta Selatan](#kuta-selatan)
 - [Tabanan](#tabanan)
+- [Singaraja](#singaraja)
+
 
 ## Template
 
@@ -224,4 +226,4 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 
 Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
-✔ | ✔ | [Jl. Ahmad Yani No.51, Abian Tuwung, Kediri, Kabupaten Tabanan, Bali 82121](https://goo.gl/maps/nfHyjrM1pAPA6Foy9) | Sepertinya 24 jam | 💲💲
+✔ | ✔ | [Jl. Letkol Wisnu No.2, Banjar Jawa, Kec. Buleleng, Kabupaten Buleleng, Bali 81113](https://goo.gl/maps/nfHyjrM1pAPA6Foy9) | Sepertinya 24 jam | 💲💲
