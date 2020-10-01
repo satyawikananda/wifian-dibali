@@ -58,6 +58,13 @@ Wifi | Colokan | Alamat | Jam Buka | Harga
 --- | ------- | ------ | --------- | ----
 ✔ | ✔ | [Jl. Cokroaminoto No.225, Ubung, Denpasar Utara, Kota Denpasar, Bali 80115] (https://goo.gl/4zNVQt) | 08:00 - 24:00 | -
 
+### KFC Tukad Pakerisan
+> Beli kentang aja
+
+Wifi | Colokan | Alamat | Jam Buka | Harga
+--- | ------- | ------ | --------- | ----
+✔ | ✔ | [Jl. Tukad Pakerisan No.64, Dauh Puri Klod, Kec. Denpasar Sel., Kota Denpasar, Bali 80225](https://goo.gl/maps/2ihtNcnEiiK1d7Uh6) | 24 jam | -
+
 ### Gangga Meeting Point (Kopi Gocenk)
 > Beli kopi self service Rp 5.000, wifian sepuasnya (terakhir kesana wifinya lemot)
 
